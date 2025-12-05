@@ -37,13 +37,13 @@ Explore your computed stats and map-based insights.
 
 🛠️ Technologies Used
 
-ButterflySoup – for HTML parsing / web-scraping
+BeautifulSoup – for HTML parsing / web-scraping
 
 Pandas + NumPy – for data cleaning and statistical calculations
 
-Python – backend code (private and hidden in this project)
+Python – backend code
 
-Standalone .exe – generated so users can run the program without Python installed
+.exe – generated so users can run the program without Python installed
 
 📦 Availability
 
